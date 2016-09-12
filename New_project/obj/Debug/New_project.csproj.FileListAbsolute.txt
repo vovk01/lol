@@ -1,0 +1,9 @@
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\bin\Debug\New_project.exe.config
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\bin\Debug\New_project.exe
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\bin\Debug\New_project.pdb
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.csprojResolveAssemblyReference.cache
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.Form1.resources
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.Properties.Resources.resources
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.csproj.GenerateResource.Cache
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.exe
+C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.pdb
