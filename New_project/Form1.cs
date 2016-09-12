@@ -15,7 +15,14 @@ namespace New_project
         public Form1()
         {
             InitializeComponent();
-            Panel.GetControlFromPosition(0,0).Size = new Size(15,15);
+            for (int i = 0; i <= 7; i++)
+                for (int j = 0; j < 7; j++)
+                {
+                    Panel.GetControlFromPosition(1, 1).Controls.Clear();
+                    Label lol = new Label();
+                    lol.BackColor = Color.Black;    
+                    Panel.GetControlFromPosition(1, 1).Controls.Add(lol);
+                }
         }
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
