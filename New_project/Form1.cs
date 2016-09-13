@@ -15,19 +15,22 @@ namespace New_project
         public Form1()
         {
             InitializeComponent();
-            for (int i = 0; i <= 7; i++)
-                for (int j = 0; j < 7; j++)
+            for (int i = 1; i <= 14; i=i+2)
+                for (int j = 1; j <= 14; j= j +2)
                 {
-                    Panel.GetControlFromPosition(1, 1).Controls.Clear();
-                    Label lol = new Label();
-                    lol.BackColor = Color.Black;    
-                    Panel.GetControlFromPosition(1, 1).Controls.Add(lol);
+                    Label Cubicle = new Label();
+                    Cubicle = new System.Windows.Forms.Label();
+                    Cubicle.Dock = System.Windows.Forms.DockStyle.Fill;
+                    Cubicle.BackColor = Color.Black;
+                    Panel.Controls.Add(Cubicle, i, j);
                 }
+            
         }
-
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
+
+        public Control button { get; set; }
     }
 }
