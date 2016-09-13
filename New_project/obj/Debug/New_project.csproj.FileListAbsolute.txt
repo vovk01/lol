@@ -7,3 +7,6 @@ C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_proje
 C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.csproj.GenerateResource.Cache
 C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.exe
 C:\Users\vovk9_000\OneDrive\Study\C#\New_project\New_project\obj\Debug\New_project.pdb
+C:\Users\Oktagram\Desktop\OOP\vladik_project\lol\New_project\bin\Debug\New_project.exe.config
+C:\Users\Oktagram\Desktop\OOP\vladik_project\lol\New_project\obj\Debug\New_project.exe
+C:\Users\Oktagram\Desktop\OOP\vladik_project\lol\New_project\obj\Debug\New_project.pdb
